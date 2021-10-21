@@ -1,0 +1,2 @@
+D:\Новая папка\Stack\Stack\Debug\Stack.exe
+D:\Новая папка\Stack\Stack\Debug\Stack.pdb
